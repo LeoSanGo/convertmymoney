@@ -1,0 +1,23 @@
+{
+  "name": "convertmymoney",
+  "version": "1.0.0",
+  "description": "Teste Commit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeoSanGo/convertmymoney.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeoSanGo/convertmymoney/issues"
+  },
+  "homepage": "https://github.com/LeoSanGo/convertmymoney#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
